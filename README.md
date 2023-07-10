@@ -1,4 +1,4 @@
-<h1> Desafio: HTML, CSS e Bootstrap - Atividade Prática</h1>
+<h1> Desafio DESCOMPLICA + INSTITUTO NU: HTML, CSS e Bootstrap - Atividade Prática</h1>
 
 <p> Sejam bem-vindos ao desafio: <strong> CRIAR UM SITE USANDO HTML, CSS e Bootstrap.</strong><br>Desafio este que me custou vários dias e muita vídeo-aula para conseguir realizar. <br>
     💎 O objetivo principal: CRIAR UM SITE USANDO HTML, CSS e Bootstrap. </p>
