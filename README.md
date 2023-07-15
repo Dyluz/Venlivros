@@ -27,7 +27,7 @@
 <h2> 🤝 AVISO </h2>
 
 <p>
-Este repositório foi criado para fins de estudo. <br>
+Este repositório foi criado para fins de estudo. Tentei reproduzir da melhor forma com ajudinha de videos que assisti pois ainda estou iniciando.<br>
 <br>
 <br>
 
